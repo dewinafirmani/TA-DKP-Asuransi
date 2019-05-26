@@ -1,0 +1,9 @@
+c:\users\asus\documents\visual studio 2015\Projects\TA\TA\bin\Debug\TA.exe.config
+c:\users\asus\documents\visual studio 2015\Projects\TA\TA\bin\Debug\TA.exe
+c:\users\asus\documents\visual studio 2015\Projects\TA\TA\bin\Debug\TA.pdb
+c:\users\asus\documents\visual studio 2015\Projects\TA\TA\obj\Debug\TA.csprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2015\Projects\TA\TA\obj\Debug\TA.Form1.resources
+c:\users\asus\documents\visual studio 2015\Projects\TA\TA\obj\Debug\TA.Properties.Resources.resources
+c:\users\asus\documents\visual studio 2015\Projects\TA\TA\obj\Debug\TA.csproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2015\Projects\TA\TA\obj\Debug\TA.exe
+c:\users\asus\documents\visual studio 2015\Projects\TA\TA\obj\Debug\TA.pdb
